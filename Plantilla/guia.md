@@ -19,8 +19,7 @@ Mini-resumen del estado actual :
 [“Mini-resumen del estado actual”]
 
 Objetivo de hoy:
-[ej: “Agregar TELCEL_CLI en edición y validarlo; ajustar la búsqueda por DNI en UI”]
+[“ ”]
 
 Notas/condiciones:
-[ej: “Recordar que hijos no pagan hasta 21 años; rounding a múltiplos de 1000”]
-
+[“recordar que siempre hay que agregar/modificar el detalle que te diga. el resto del código lo tenemos que respetar tal cual”]
