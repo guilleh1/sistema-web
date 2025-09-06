@@ -732,4 +732,4 @@ export default function SocioEdit() {
       </div>
     </div>
   );
-}
+} prueba
