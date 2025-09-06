@@ -23,3 +23,4 @@ Objetivo de hoy:
 
 Notas/condiciones:
 [“recordar que siempre hay que agregar/modificar el detalle que te diga. el resto del código lo tenemos que respetar tal cual”]
+modificado
